@@ -1,0 +1,11 @@
+c:\Nate2019\NSS\workspace\c#\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.csprojAssemblyReference.cache
+c:\Nate2019\NSS\workspace\c#\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfoInputs.cache
+c:\Nate2019\NSS\workspace\c#\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.AssemblyInfo.cs
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.exe
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.deps.json
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.runtimeconfig.dev.json
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.dll
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\bin\Debug\netcoreapp3.0\DictionaryIntro.pdb
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.dll
+C:\Nate2019\NSS\workspace\c#\DictionaryIntro\obj\Debug\netcoreapp3.0\DictionaryIntro.pdb
