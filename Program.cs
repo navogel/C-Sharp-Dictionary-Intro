@@ -14,8 +14,22 @@ namespace DictionaryIntro
             cohortCount.Add("Cohort 35", 14);
             cohortCount.Add("Cohort 36", 28);
             cohortCount.Add("Cohort 37", 28);
+
+            foreach (KeyValuePair<string, int> item in cohortCount)
+            {
+                Console.WriteLine($"{item.Key} has {item.Value} students");
+            }
+            //another way to declare a dictionary
+            Dictionary<string, double> products = new Dictionary<string, double>()
+            { { "Deodorant", 8.50 }, { "Foods", 4.50 }, { "Vino", 10.50 }, { "Hairbrush", 5.50 }, { "Shampoo", 5.50 },
+
+            };
+
+            foreach (KeyValuePair<string, double> product in products)
+            {
+                Console.WriteLine($"{product.Key} costs: {product.Value}");
+            }
         }
 
-        cohortCount.
     }
 }
